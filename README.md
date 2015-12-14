@@ -73,8 +73,8 @@ dataProvider.setLanguage(SmartTourismAPIContract.SupportedLanguage.en_us);
 ```
 
 
-## Contributors
-#####Hsuan-Chih Chuang @ Chiegaia Co.
+## TODO
+#####Intelligent & ACL APIs Pending
 
 ## License
 #####Licensed under the MIT License.
