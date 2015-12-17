@@ -14,5 +14,5 @@ public class PictureMeta {
     public Integer width;
 
     @SerializedName("height")
-    public String height;
+    public Integer height;
 }
