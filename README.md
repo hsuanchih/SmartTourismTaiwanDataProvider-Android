@@ -74,7 +74,7 @@ dataProvider.setLanguage(SmartTourismAPIContract.SupportedLanguage.en_us);
 
 
 ## TODO
-#####Intelligent & ACL APIs Pending
+##### Intelligent & ACL APIs Pending
 
 ## License
-#####Licensed under the MIT License.
+##### Licensed under the MIT License.
